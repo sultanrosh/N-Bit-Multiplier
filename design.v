@@ -100,5 +100,5 @@ module NBitMultiplierWithBCD(
   output reg[3:0] BCD_2,
   output reg[3:0] BCD_3
 );
-  
+*/  
   
